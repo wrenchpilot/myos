@@ -1,0 +1,41 @@
+ag                    [ ]     the silver searcher (ag) aliases
+ansible               [ ]     ansible abbreviations
+apt                   [ ]     Apt and dpkg aliases for Ubuntu and Debian distros.
+atom                  [ ]     Atom.io editor abbreviations
+bolt                  [ ]     puppet bolt aliases
+bundler               [ ]     ruby bundler
+clipboard             [x]     pbcopy and pbpaste shortcuts to linux
+composer              [x]     common composer abbreviations
+curl                  [x]     Curl aliases for convenience.
+docker-compose        [ ]     docker-compose abbreviations
+docker                [x]     docker abbreviations
+emacs                 [ ]     emacs editor
+fuck                  [ ]     
+general               [x]     general aliases
+git                   [x]     common git abbreviations
+gitsvn                [x]     common git-svn abbreviations
+heroku                [ ]     heroku task abbreviations
+hg                    [ ]     mercurial abbreviations
+homebrew-cask         [x]     homebrew-cask abbreviations
+homebrew              [x]     homebrew abbreviations
+homesick              [ ]     homesick aliases
+jitsu                 [ ]     jitsu task abbreviations
+kubectl               [ ]     kubectl aliases
+laravel               [ ]     laravel artisan abbreviations
+maven                 [ ]     maven abbreviations
+msys2                 [ ]     MSYS2 aliases
+npm                   [ ]     common npm abbreviations
+osx                   [x]     osx-specific aliases
+phoenix               [ ]     phoenix abbreviations
+puppet                [ ]     puppet aliases
+pyrocms               [ ]     pyrocms abbreviations
+rails                 [ ]     rails abbreviations
+svn                   [ ]     common svn abbreviations
+systemd               [ ]     systemd service
+textmate              [ ]     textmate abbreviations
+tmux                  [ ]     Tmux terminal multiplexer
+todo.txt-cli          [ ]     todo.txt-cli abbreviations
+vagrant               [ ]     vagrant aliases
+vault                 [ ]     vault aliases
+vim                   [ ]     vim abbreviations
+yarn                  [ ]     yarn package manager aliases

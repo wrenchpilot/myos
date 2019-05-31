@@ -1,0 +1,1 @@
+../completion/available/git-prompt.completion.bash

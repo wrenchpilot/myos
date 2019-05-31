@@ -1,0 +1,1 @@
+../plugins/available/visual-studio-code.plugin.bash

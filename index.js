@@ -70,7 +70,7 @@ async function init({ dir }) {
     overwrite: false,
     errorOnExist: true,
   };
-  const copyFiles = ['vim', 'zsh', 'tmux', 'docker-compose.yml'];
+  const copyFiles = ['vim', 'zsh', 'tmux', 'bash', 'bash_it', 'nano', 'docker-compose.yml'];
   await Promise.all(copyFiles.map((dOrF) =>
     copy(join(__dirname, dOrF),  join(dir, dOrF), basicOpts)));
   console.log(`Created template directory @ "${dir}"`);

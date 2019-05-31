@@ -1,0 +1,1 @@
+../plugins/available/gif.plugin.bash

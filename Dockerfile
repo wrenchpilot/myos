@@ -50,7 +50,9 @@ RUN apt-get install -y                               \
                           nodejs                     \
                           xclip                      \
                           xauth                      \
-                          yarn
+                          yarn                       \
+                          bash                       \
+                          nano
 
 
 # TMUX binary always screws me, just build from source
